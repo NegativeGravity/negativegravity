@@ -34,11 +34,11 @@ I am an **AI Engineer and Quantitative Researcher** specializing in the converge
 ---
 
 ### 🛠 High-Performance Stack
-* **Languages:** `Python (Expert)`, `C++20 (Performance)`, `SQL`, `Go (Microservices)`.
+* **Languages:** `Python (Expert)`, `C++20 (Performance)`, `SQL`, `Go`.
 * **Deep Learning:** `PyTorch`, `JAX`, `Transformers`, `GNNs`, `Mamba (SSM)`.
 * **Quant & Data:** `Polars (High-speed)`, `ONNX`, `NVIDIA TensorRT`, `QuantLib`, `Pandas`.
 * **LLM Ops:** `vLLM`, `LangChain`, `LangGraph`, `Milvus (Vector DB)`, `HuggingFace`.
-* **Infrastructure:** `Docker`, `Kubernetes (K8s)`, `Apache Kafka`, `Redis`, `ArgoCD`.
+* **Infrastructure:** `Docker`, `Apache Kafka`, `Redis`.
 
 ---
 
