@@ -1,4 +1,4 @@
-# Amirhosein Abdollahi | AI Architect 🚀
+# Amirhosein Abdollahi | Quantitative AI Architect 🚀
 
 I am an **AI Engineer and Quantitative Researcher** specializing in the convergence of **Autonomous Trading Systems** and **Large Language Model (LLM) Orchestration**. I architect high-alpha, low-latency infrastructures where mathematical rigor meets production-grade scalability. My core focus is on solving the **Non-Stationarity** of financial markets using SOTA architectures and accelerating inference for real-time decision engines.
 
