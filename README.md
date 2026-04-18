@@ -42,12 +42,23 @@ I am an **AI Engineer and Quantitative Researcher** specializing in the converge
 
 ---
 
-### 📫 Strategic Collaboration
+### 📫 Strategic Collaboration & High-Alpha Networking
 I am open to discussing high-alpha trading architectures, LLM-driven enterprise solutions, and high-performance AI infrastructure.
 
-📧 **Email:** [amhoseinab@gmail.com](mailto:amhoseinab@gmail.com)
-🔗 **LinkedIn:** [/in/Amirhosein-Abdollahi](https://linkedin.com/in/Amirhosein-Abdollahi)
-🔗 **Kaggle:** [NegativeGravity](https://www.kaggle.com/negativegravity)
+<p align="left">
+  <a href="mailto:amhoseinab@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/Amirhosein-Abdollahi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/negativegravity">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://t.me/NegativeGravity">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 
 ---
 
