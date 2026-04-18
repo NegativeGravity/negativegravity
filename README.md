@@ -1,62 +1,49 @@
-# Amirhosein Abdollahi | Quantitative AI Architect 🚀
+# Amirhosein Abdollahi | Senior AI Engineer & Quant Researcher 🚀
 
-**Sharif Alumni | M.Sc. in AI @ Tarbiat Modares | Quant Finance & AI Engineering**
-
-I am an **AI Engineer and Quantitative Researcher** focused on the intersection of high-performance computing, financial engineering, and generative AI. My expertise lies in architecting proprietary systems that transform non-stationary market data into deterministic alpha, and deploying scalable LLM infrastructures for real-world decision-making.
+I am a specialized **AI Engineer** operating at the intersection of **Quantitative Finance** and **Generative AI (LLMs)**. I architect high-frequency predictive systems and enterprise-grade LLM infrastructures where mathematical precision meets scalable engineering. My focus is on reducing the gap between raw data and actionable alpha through advanced neural architectures.
 
 ---
 
-### 🏛️ Professional Pedigree & Impact
-* **System Engineer @ Hojan Smart Capital:** * Architected Transformer-based forecasting models; improved prediction stability by **25%**.
-    * Optimized real-time data pipelines using Redis/ONNX, slashing system latency by **40%**.
-    * Automated MLOps workflows, boosting deployment efficiency by **60%**.
-* **Quantitative Data Analyst (Quant Research):**
-    * Engineered a high-fidelity backtesting engine processing **10M+ tick-level data points**.
-    * Optimized algorithmic strategies achieving an **18% increase in Sharpe Ratio**.
-* **Academic Foundation:**
-    * **M.Sc. in AI Engineering** | Tarbiat Modares University (Focus: Multi-modal Time Series).
-    * **B.Sc. in Petroleum Engineering** | Sharif University of Technology (Focus: CV & Signal Analysis).
+### 💹 Quantitative Finance & AI Expertise
+* **Predictive Alpha Engines:** Developed Transformer-based forecasting for non-stationary market regimes, achieving a **25% stability gain** at Hojan Smart Capital.
+* **Low-Latency Quant Pipelines:** Optimized real-time data ingestion and model inference using **ONNX & CUDA**, slashing execution latency by **40%**.
+* **Heuristic Strategy Optimization:** Engineered hybrid trading agents using **Grey Wolf Optimization (GWO)** and **Combinatorial Purged Cross-Validation (CPCV)**.
 
 ---
 
-### 🧠 Expertise & Specialized Domains
-
-#### 💹 Quantitative Finance & Algorithmic Trading
-* **Execution & Strategy:** Development of heuristic-driven and ML-based traders using **Grey Wolf Optimization (GWO)** and **CPCV**.
-* **Predictive Engines:** High-frequency forecasting using LSTM, Transformers, and GARCH models.
-* **Risk Management:** Implementation of robust risk-parity and portfolio optimization frameworks.
-
-#### 🤖 AI Engineering & LLMs (GenAI)
-* **LLM Orchestration:** Designing production-grade **RAG (Retrieval-Augmented Generation)** systems and context-aware agents.
-* **High-Performance Vision:** GPU-accelerated image processing pipelines using **onnxruntime-gpu** and **Wavelet Denoising**.
-* **Full-Stack ML:** End-to-end integration of vision models with **Django/FastAPI** backends.
+### 🤖 LLM Engineering & Generative AI (GenAI)
+* **Enterprise RAG Architectures:** Designed high-throughput **Retrieval-Augmented Generation** systems featuring hybrid search (Vector + Keyword) and re-ranking pipelines for complex financial document analysis.
+* **Agentic Workflows:** Developed autonomous **Multi-Agent Systems** (using LangGraph/AutoGen) for automated sentiment aggregation and real-time market news synthesis.
+* **Model Optimization & Serving:** Specialized in **Quantization (GGUF/AWQ)** and high-performance LLM serving using **vLLM** and **NVIDIA TensorRT**, focusing on sub-second inference for sentiment-driven trading.
+* **Fine-Tuning:** Experienced in SFT (Supervised Fine-Tuning) and **PEFT (LoRA/QLoRA)** on Llama-3 and Mistral models for domain-specific financial tasks.
 
 ---
 
-### 📁 Featured Repositories
+### 📁 Featured Professional Projects
 
-| **Quant & AI Finance** | **AI Engineering & LLMs** | **Computer Vision & ML** |
+| **Category** | **Project & Technical Highlights** | **Link** |
 | :--- | :--- | :--- |
-| 📈 [Trading-System](https://github.com/NegativeGravity/Trading-System) (Real-time Execution) | 🤖 [CBIR-System](https://github.com/NegativeGravity/CBIR-System) (Hybrid Retrieval) | 👁️ [GPU-Vision-Pipeline](https://github.com/NegativeGravity/Assignment2_Improved_GPU) (High-Perf) |
-| 🐺 [Heuristic-Trader](https://github.com/NegativeGravity/Heuristic_Trader) (GWO & CPCV) | 🧠 [RAG-Context-Manager](mailto:amhoseinab@gmail.com) (Enterprise LLM) | 📊 [FaceCluster-Insights](https://github.com/NegativeGravity/FaceCluster-Insights) (PCA/GMM) |
-| 🏦 [Bank-Marketing-ML](https://github.com/NegativeGravity/Bank-Marketing-Intelligence) (XGBoost/SVM) | 📉 [Forest-Cover-Predictor](https://github.com/NegativeGravity/Forest-Cover-Classifier) (Classification) | 🧠 [Anxiety-Predictor](https://github.com/NegativeGravity/AnxietyQuest) (Lifestyle Data) |
+| **Quant Finance** | **Trading-System:** Real-time HFT engine with low-latency signal processing. | [Link](https://github.com/NegativeGravity/Trading-System) |
+| **Quant Finance** | **Heuristic-Trader:** Meta-heuristic optimization (GWO) for strategy selection. | [Link](https://github.com/NegativeGravity/Heuristic_Trader) |
+| **LLM / GenAI** | **Fin-RAG Engine:** Advanced RAG for 10-K/10-Q filing analysis with metadata filtering. | *Proprietary* |
+| **LLM / GenAI** | **Sentiment-Agent:** Autonomous agent for real-time news impact scoring on crypto pairs. | *Proprietary* |
+| **AI Engineering** | **GPU-Vision-Pipeline:** Wavelet-based denoising & background removal (GPU-Accel). | [Link](https://github.com/NegativeGravity/Assignment2_Improved_GPU) |
+| **Vision / ML** | **Hybrid-CBIR:** Content-based image retrieval with Django & MLOps integration. | [Link](https://github.com/NegativeGravity/CBIR-System) |
 
 ---
 
-### 🛠 Tech Stack
-* **Languages:** `Python (Expert)`, `C++`, `SQL`, `Go`, `Bash`
-* **Deep Learning & AI:** `PyTorch`, `Transformers`, `HuggingFace`, `RAG`, `LangChain`, `XGBoost`
-* **Quant Tools:** `QuantLib`, `Pandas`, `Backtrader`, `NumPy`, `SciPy`, `ONNX`
-* **Infrastructure:** `Docker`, `Kubernetes (K8s)`, `Kafka`, `Redis`, `AWS`, `FastAPI`, `MLOps`
+### 🛠 Technical Stack
+* **Languages:** `Python (Expert)`, `C++`, `SQL`, `Go`.
+* **LLM Tech:** `LangChain`, `LlamaIndex`, `VectorDBs (Milvus/Pinecone)`, `HuggingFace`, `vLLM`.
+* **Quant & Math:** `PyTorch`, `NumPy`, `Pandas`, `Backtrader`, `ONNX`, `CUDA`.
+* **Infrastructure:** `Docker`, `Kubernetes`, `FastAPI`, `Redis`, `ArgoCD`, `MLOps`.
 
 ---
 
-### 📫 Get in Touch
+### 📫 Let's Connect
 * **Email:** [amhoseinab@gmail.com](mailto:amhoseinab@gmail.com)
 * **LinkedIn:** [/in/Amirhosein-Abdollahi](https://linkedin.com/in/Amirhosein-Abdollahi)
 
 ---
 
-### 📊 GitHub Insights
 ![Amirhosein's Stats](https://github-readme-stats.vercel.app/api?username=NegativeGravity&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NegativeGravity&layout=compact&theme=tokyonight)
