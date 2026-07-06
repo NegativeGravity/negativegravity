@@ -1,66 +1,42 @@
-# Amirhosein Abdollahi | Quantitative AI Architect 🚀
+# Hi, I'm Amirhossein Abdollahi
 
-I am an **AI Engineer and Quantitative Researcher** specializing in the convergence of **Autonomous Trading Systems** and **Large Language Model (LLM) Orchestration**. I architect high-alpha, low-latency infrastructures where mathematical rigor meets production-grade scalability. My core focus is on solving the **Non-Stationarity** of financial markets using SOTA architectures and accelerating inference for real-time decision engines.
+**AI/ML Engineer focused on financial machine learning, time-series modeling, and production-ready AI systems.**
 
----
+I build machine learning systems that connect research, engineering, and real-world decision making. My work is mainly focused on financial forecasting, quantitative trading infrastructure, credit-risk modeling, LLM-powered research agents, and scalable ML pipelines.
 
-### 💹 Quantitative Intelligence & Market Microstructure
-* **Neural Alpha Generation:** Developed proprietary **Regime-Switching Transformers** for multi-modal forecasting, achieving a **25% stability gain** in highly volatile regimes.
-* **HFT & Order Book Dynamics:** Engineered high-throughput pipelines for **Tick-level feature extraction**, focusing on Order Book Imbalance (OBI) and Liquidity Anomaly Detection.
-* **Latency Optimization:** Leveraged **CUDA Kernel Tuning** and **NVIDIA TensorRT** to slash end-to-end inference latency by **40%**, enabling sub-millisecond execution.
-* **Rigorous Validation:** Implementation of **Combinatorial Purged Cross-Validation (CPCV)** and Neural SDEs to eliminate look-ahead bias and ensure robust backtest-to-live translation.
+## What I work on
 
----
+- Financial ML and time-series forecasting
+- Quantitative trading research and backtesting
+- Reinforcement learning for execution and decision systems
+- LLM agents, RAG pipelines, and retrieval-grounded reasoning
+- Production ML infrastructure with Python, PyTorch, Docker, Kafka, and Redis
+- Computer vision and applied deep learning systems
 
-### 🤖 Generative AI & Enterprise LLM Engineering
-* **Agentic Reasoning Swarms:** Designing autonomous **Multi-Agent Systems** (LangGraph/AutoGen) for real-time fundamental synthesis and cross-asset sentiment arbitrage.
-* **Advanced RAG Pipelines:** Architected enterprise-grade **GraphRAG** systems with hybrid retrieval (Vector + Knowledge Graph) for high-precision financial document analysis.
-* **High-Performance Serving:** Specialized in **Quantization-Aware Training (QAT)** and high-throughput deployment using **vLLM** and **FP8/INT4 quantization** for edge and cloud serving.
-* **Context Management:** Expert in fine-tuning (LoRA/QLoRA) and long-context window optimization for analyzing extensive financial filings (10-K/10-Q).
+## Selected projects
 
----
+- **Backtesting Platform** — A research-oriented framework for financial strategy validation, leakage control, and experiment reproducibility.
+- **Optimal Execution DRL** — Reinforcement learning experiments for simulated trade execution using PPO/DQN-style policies.
+- **Glass Box Trader** — Interpretable trading research focused on transparent decision logic and model explainability.
+- **News Room Alpha Auditor** — LLM-assisted financial news analysis and alpha-signal auditing workflow.
+- **Alpha-SME / Financial Risk Intelligence** — Credit-risk modeling for high-risk SME bankruptcy and financial risk classification.
+- **CBIR System** — Content-based image retrieval system using computer vision and representation learning.
+- **GPU Image Pipeline** — GPU-accelerated image processing pipeline for high-performance visual workloads.
 
-### 📁 Strategic & High-Tech Projects
+## Tech stack
 
-| **Domain** | **Project & Technical Architecture** | **Status / Link** |
-| :--- | :--- | :--- |
-| **Quant Finance** | **Neural-Execution-Engine:** Real-time HFT signal processing & Order Book modeling. | [🚀 View Repo](https://github.com/NegativeGravity/Trading-System) |
-| **Quant Finance** | **Stochastic-Backtester:** Meta-heuristic optimization (GWO) & CPCV validation. | [📊 View Repo](https://github.com/NegativeGravity/Heuristic_Trader) |
-| **LLM / GenAI** | **Agentic-Alpha-Seeker:** Multi-agent swarm for sentiment-driven market reasoning. | *Proprietary* |
-| **LLM / GenAI** | **Fin-Mamba-TS:** State-Space Model (SSM) architecture for long-sequence forecasting. | *In Research* |
-| **HPC / Vision** | **GPU-Vision-Accelerator:** Ultra-low latency image processing via custom CUDA kernels. | [⚡ View Repo](https://github.com/NegativeGravity/Assignment2_Improved_GPU) |
-| **AI Systems** | **Hybrid-CBIR:** Full-stack image retrieval with Django & MLOps integration. | [🔍 View Repo](https://github.com/NegativeGravity/CBIR-System) |
+**Languages:** Python, SQL, C++  
+**ML/AI:** PyTorch, Scikit-learn, Transformers, LSTM, Random Forest, Reinforcement Learning  
+**LLM Systems:** LangGraph, RAG, Hybrid Retrieval, vLLM, Prompt Engineering  
+**Data & Infrastructure:** Kafka, Redis, Docker, Linux, REST APIs, CI/CD  
+**Core Areas:** Time-Series Modeling, Model Evaluation, Backtesting, Feature Engineering, Production ML
 
----
+## Current focus
 
-### 🛠 High-Performance Stack
-* **Languages:** `Python (Expert)`, `C++20 (Performance)`, `SQL`, `Go`.
-* **Deep Learning:** `PyTorch`, `JAX`, `Transformers`, `GNNs`, `Mamba (SSM)`.
-* **Quant & Data:** `Polars (High-speed)`, `ONNX`, `NVIDIA TensorRT`, `QuantLib`, `Pandas`.
-* **LLM Ops:** `vLLM`, `LangChain`, `LangGraph`, `Milvus (Vector DB)`, `HuggingFace`.
-* **Infrastructure:** `Docker`, `Apache Kafka`, `Redis`.
+I am currently focused on building reliable AI/ML systems for financial markets, with emphasis on robust validation, real-time data pipelines, model deployment, and practical machine learning systems that can move beyond notebooks into production.
 
----
+## Connect
 
-### 📫 Strategic Collaboration & High-Alpha Networking
-I am open to discussing high-alpha trading architectures, LLM-driven enterprise solutions, and high-performance AI infrastructure.
-
-<p align="left">
-  <a href="mailto:amhoseinab@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/Amirhosein-Abdollahi">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.kaggle.com/negativegravity">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://t.me/NegativeGravity">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
-
---
-
-![Amirhosein's Stats](https://github-readme-stats.vercel.app/api?username=NegativeGravity&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NegativeGravity&layout=compact&theme=tokyonight)
+- GitHub: [NegativeGravity](https://github.com/NegativeGravity)
+- Email: amirhoseinab@gmail.com
+- Location: Tehran, Iran
