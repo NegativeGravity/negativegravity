@@ -37,6 +37,4 @@ I am currently focused on building reliable AI/ML systems for financial markets,
 
 ## Connect
 
-- GitHub: [NegativeGravity](https://github.com/NegativeGravity)
 - Email: amirhoseinab@gmail.com
-- Location: Tehran, Iran
